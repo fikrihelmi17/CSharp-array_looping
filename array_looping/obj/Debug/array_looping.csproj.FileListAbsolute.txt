@@ -1,0 +1,9 @@
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\bin\Debug\array_looping.exe.config
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.csprojResolveAssemblyReference.cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.Form1.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.Properties.Resources.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.csproj.GenerateResource.Cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\bin\Debug\array_looping.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\bin\Debug\array_looping.pdb
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Array\tugas\tugas_array_looping\array_looping\array_looping\obj\Debug\array_looping.pdb
